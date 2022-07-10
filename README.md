@@ -8,5 +8,3 @@ The courses are listed as follows:
 *  ENS 505 - Methods of Statistical Inference
 *  ENS 511 - Engineering Optimization
 *  IE 58005 - Advance Statistics with R
-
-tests
