@@ -5,4 +5,4 @@ This course covers the theory and foundations of Artificial Neural Networks (ANN
 
 I focused on a paper presentation and project presentation throughout the course which you can see the details on **Presentations** folder.
 
-asd
+test
