@@ -1,0 +1,3 @@
+Big Data Processing To understand the big data storage and big data processing problems that arise with the growth of the data. To teach the tools and environments that are necessary to deal with the problems that comes with big data. This course shows the hand-on ability to perform data analysis and machine learning operations using open source technologies on big data environments by introducing them. \
+
+I learned Apache Spark and ML implementations for real use cases. I researched the latest topics about BigDL (Intel implementation for Big Data and Deep Learning Frameworks)
