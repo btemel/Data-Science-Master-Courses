@@ -9,7 +9,6 @@ You can read more from papers below about the related work about my study:
 * We know who you followed last summer: inferring social link creation times in twitter
 * The rise of social bots
 * The spread of fake news by social bots
-* BRCA1 protein products: functional motifs
 * A topology of Twitter research: disciplines, methods, and ethics
 * Twitter research for social scientists: A brief introduction to the benefits, limitations and tools for analysing Twitter data
 * Early filtering of ephemeral malicious accounts on Twitter
